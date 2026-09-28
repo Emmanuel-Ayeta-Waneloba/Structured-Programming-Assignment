@@ -74,9 +74,9 @@ sum of all multiples of 7 from 1 to 100.
 
 ## 08_INTERACTIVE CONSOLE PROGRAM
 
-**source:**Deitel & Deitel, C How to Program, 9th Edition, Chapter 4, Exercise 3.22, page 178
+**source:** Deitel & Deitel, C How to Program, 9th Edition, Chapter 4, Exercise 3.22, page 178
 
-**What does the program do:**The C program calculates and displays a salesperson's total weekly earnings based on their gross sales figures until the user enters -1 to terminate the program.
+**What does the program do:** The C program calculates and displays a salesperson's total weekly earnings based on their gross sales figures until the user enters -1 to terminate the program.
 
 **Concepts Used:** printf,scanf, if, while, menu
 
